@@ -1,3 +1,5 @@
 body {
   font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  background-color: rgba(0,0,0,0.5);
+  color: #F8F8FF;  
 }
