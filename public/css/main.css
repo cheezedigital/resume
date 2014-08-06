@@ -1,11 +1,11 @@
 body {
   font-family: 'Source Sans Pro', Helvetica, sans-serif;
   font-size: 16px;
-  background-color: #1e1e1e; 
+  background-color: #1e1e1e;
   color: #F8F8FF;
   /*background-image: url("/images/cheeze.jpg");*/
   /*background-size: cover;*/
 }
 .list-unstyled li1, li2, li3, li4 {
-  color: orange;
+  color: #DFDF00;
 }
