@@ -4,6 +4,6 @@ get '/' do
   erb :index
 end
 
-get '/in-my-head' do
+get '/projects' do
   erb :blog
 end
