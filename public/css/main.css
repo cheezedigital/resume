@@ -12,3 +12,7 @@ body {
 #projects {
   color: #F8F8FF;
 }
+
+ul {
+  list-style-type: none;
+}
